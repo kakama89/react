@@ -1,0 +1,64 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.content {
+  text-align: center;
+}
+.tickets {
+  width: 80%;
+  position: relative;
+  margin: 30px auto;
+}
+
+.ticket {
+  height: 90px;
+  background-color: white;
+  margin: 0 10px;
+}
+.ticket > .icon > i {
+  color: darkcyan;
+  display: inline-block;
+  height: 90px;
+  line-height: 80px;
+  text-align: center;
+}
+.ticket > .info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.ticket > .info > span {
+  display: inline-block;
+  text-align: left;
+  width: 100%;
+}
+
+.ticket > .info > span:first-child {
+  font-weight: bold;
+  font-size: large;
+}
+.profile > .avatar {
+  margin: 25px auto;
+}
+.profile > .action {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 30px;
+}
+.profile > .action > a {
+  font-size: smaller;
+  width: 100px;
+  display: inline-block;
+}
+.left {
+  text-align: left;
+}
+.profile > .txt > label {
+  text-transform: uppercase;
+  color: #c0c0c0;
+}
+.profile > .txt > p {
+  word-wrap: break-word;
+}

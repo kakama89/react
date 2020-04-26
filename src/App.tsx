@@ -1,26 +1,37 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import Home from "./component/home";
+import StockEdit from "./component/stock/stock-edit";
+import ProfileEdit from "./component/profile/profile-edit";
+import StockAdd from "./component/stock/stock-add";
+import { Layout } from "antd";
 
-function App() {
+const { Header, Footer, Sider, Content } = Layout;
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Layout className="container no-gutters blue">
+        <Header>HEADER</Header>
+        <hr />
+        <div className="content container no-gutters">
+          <Switch>
+            <Route exact path="/">
+              <Home />
+            </Route>
+            <Route path="/stocks/:id">
+              <StockEdit />
+            </Route>
+            <Route path="/profiles/:id">
+              <ProfileEdit />
+            </Route>
+
+            <Route path="/stock-add">
+              <StockAdd />
+            </Route>
+          </Switch>
+        </div>
+        <Footer></Footer>
+      </Layout>
+    </Router>
   );
 }
-
-export default App;

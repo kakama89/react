@@ -1,0 +1,420 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "icon": "far fa-star fa-2x",
+      "name": "123",
+      "desc": "ReactJs"
+    },
+    {
+      "id": 2,
+      "icon": "far fa-star fa-2x",
+      "name": "456",
+      "desc": "Java"
+    },
+    {
+      "id": 3,
+      "icon": "far fa-star fa-2x",
+      "name": "789",
+      "desc": "Node Js"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiHu-E1s5ssBxG__2DS7ZjbvsppVxo4CDjLKFuDOW0MTsdnp3R&usqp=CAU",
+      "fullName": "Toai Do",
+      "desc": "Sr Customer manager1",
+      "role": [
+        "Administrator",
+        "Moderator"
+      ],
+      "email": "toai.doxuan@nashtechglobal.com",
+      "phone": "0123456789",
+      "twitter": "toai.doxuan",
+      "location": "Hanoi, Viet Name",
+      "Bio": "If you have ever used Instagram, you know that it does not have a whole lot of options when it comes to customising fonts.",
+      "status": "Active"
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "name": "Red Hat, Inc.",
+      "requestDate": "30/09/2019",
+      "updateDate": "07/04/2020",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Biostage, Inc.",
+      "requestDate": "27/09/2019",
+      "updateDate": "21/01/2020",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "FelCor Lodging Trust Incorporated",
+      "requestDate": "08/05/2019",
+      "updateDate": "01/12/2019",
+      "status": "Cancelled"
+    },
+    {
+      "id": 4,
+      "name": "Huaneng Power International, Inc.",
+      "requestDate": "27/10/2019",
+      "updateDate": "14/10/2019",
+      "status": "Cancelled"
+    },
+    {
+      "id": 5,
+      "name": "Nathan's Famous, Inc.",
+      "requestDate": "10/01/2020",
+      "updateDate": "06/02/2020",
+      "status": "Resolved"
+    },
+    {
+      "id": 6,
+      "name": "Medley Management Inc.",
+      "requestDate": "28/08/2019",
+      "updateDate": "21/08/2019",
+      "status": "Resolved"
+    },
+    {
+      "id": 7,
+      "name": "Blackrock Enhanced Government Fund, Inc",
+      "requestDate": "31/01/2020",
+      "updateDate": "22/05/2019",
+      "status": "Resolved"
+    },
+    {
+      "id": 8,
+      "name": "NewMarket Corporation",
+      "requestDate": "24/03/2020",
+      "updateDate": "01/03/2020",
+      "status": "Cancelled"
+    },
+    {
+      "id": 9,
+      "name": "First Trust Germany AlphaDEX Fund",
+      "requestDate": "29/02/2020",
+      "updateDate": "06/09/2019",
+      "status": "Paused"
+    },
+    {
+      "id": 10,
+      "name": "First Internet Bancorp",
+      "requestDate": "27/02/2020",
+      "updateDate": "19/03/2020",
+      "status": "Active"
+    },
+    {
+      "id": 11,
+      "name": "Aberdeen Singapore Fund, Inc.",
+      "requestDate": "19/09/2019",
+      "updateDate": "25/07/2019",
+      "status": "Cancelled"
+    },
+    {
+      "id": 12,
+      "name": "Mitel Networks Corporation",
+      "requestDate": "29/08/2019",
+      "updateDate": "18/05/2019",
+      "status": "Active"
+    },
+    {
+      "id": 13,
+      "name": "Och-Ziff Capital Management Group LLC",
+      "requestDate": "10/09/2019",
+      "updateDate": "26/01/2020",
+      "status": "Resolved"
+    },
+    {
+      "id": 14,
+      "name": "PartnerRe Ltd.",
+      "requestDate": "31/12/2019",
+      "updateDate": "29/01/2020",
+      "status": "Paused"
+    },
+    {
+      "id": 15,
+      "name": "SigmaTron International, Inc.",
+      "requestDate": "10/03/2020",
+      "updateDate": "24/03/2020",
+      "status": "Active"
+    },
+    {
+      "id": 16,
+      "name": "PIMCO Municipal Income Fund",
+      "requestDate": "07/12/2019",
+      "updateDate": "03/10/2019",
+      "status": "Cancelled"
+    },
+    {
+      "id": 17,
+      "name": "CNO Financial Group, Inc.",
+      "requestDate": "15/03/2020",
+      "updateDate": "13/12/2019",
+      "status": "Cancelled"
+    },
+    {
+      "id": 18,
+      "name": "AMTEK, Inc.",
+      "requestDate": "17/10/2019",
+      "updateDate": "25/03/2020",
+      "status": "Active"
+    },
+    {
+      "id": 19,
+      "name": "Jacobs Engineering Group Inc.",
+      "requestDate": "27/05/2019",
+      "updateDate": "26/11/2019",
+      "status": "Active"
+    },
+    {
+      "id": 20,
+      "name": "Tabula Rasa HealthCare, Inc.",
+      "requestDate": "27/08/2019",
+      "updateDate": "13/05/2019",
+      "status": "Resolved"
+    },
+    {
+      "id": 21,
+      "name": "Annaly Capital Management Inc",
+      "requestDate": "26/11/2019",
+      "updateDate": "13/04/2020",
+      "status": "Resolved"
+    },
+    {
+      "id": 22,
+      "name": "MGM Growth Properties LLC",
+      "requestDate": "10/04/2019",
+      "updateDate": "05/06/2019",
+      "status": "Active"
+    },
+    {
+      "id": 23,
+      "name": "Regeneron Pharmaceuticals, Inc.",
+      "requestDate": "18/12/2019",
+      "updateDate": "19/11/2019",
+      "status": "Resolved"
+    },
+    {
+      "id": 24,
+      "name": "TriplePoint Venture Growth BDC Corp.",
+      "requestDate": "29/10/2019",
+      "updateDate": "26/09/2019",
+      "status": "Paused"
+    },
+    {
+      "id": 25,
+      "name": "STRATS Trust",
+      "requestDate": "19/11/2019",
+      "updateDate": "08/06/2019",
+      "status": "Active"
+    },
+    {
+      "id": 26,
+      "name": "Coty Inc.",
+      "requestDate": "26/01/2020",
+      "updateDate": "18/07/2019",
+      "status": "Active"
+    },
+    {
+      "id": 27,
+      "name": "Aspen Insurance Holdings Limited",
+      "requestDate": "28/07/2019",
+      "updateDate": "06/03/2020",
+      "status": "Active"
+    },
+    {
+      "id": 28,
+      "name": "Federated Premier Municipal Income Fund",
+      "requestDate": "11/01/2020",
+      "updateDate": "19/12/2019",
+      "status": "Active"
+    },
+    {
+      "id": 29,
+      "name": "American Assets Trust, Inc.",
+      "requestDate": "03/07/2019",
+      "updateDate": "15/03/2020",
+      "status": "Active"
+    },
+    {
+      "id": 30,
+      "name": "Ames National Corporation",
+      "requestDate": "08/03/2020",
+      "updateDate": "29/03/2020",
+      "status": "Active"
+    },
+    {
+      "id": 31,
+      "name": "Boston Beer Company, Inc. (The)",
+      "requestDate": "14/12/2019",
+      "updateDate": "24/04/2020",
+      "status": "Active"
+    },
+    {
+      "id": 32,
+      "name": "Eaton Vance Municipal Income 2028 Term Trust",
+      "requestDate": "23/02/2020",
+      "updateDate": "23/11/2019",
+      "status": "Active"
+    },
+    {
+      "id": 33,
+      "name": "Terex Corporation",
+      "requestDate": "02/07/2019",
+      "updateDate": "05/05/2019",
+      "status": "Paused"
+    },
+    {
+      "id": 34,
+      "name": "Valeritas Holdings, Inc.",
+      "requestDate": "18/12/2019",
+      "updateDate": "04/02/2020",
+      "status": "Active"
+    },
+    {
+      "id": 35,
+      "name": "ParkerVision, Inc.",
+      "requestDate": "23/08/2019",
+      "updateDate": "10/07/2019",
+      "status": "Paused"
+    },
+    {
+      "id": 36,
+      "name": "Lazard Ltd.",
+      "requestDate": "23/12/2019",
+      "updateDate": "21/09/2019",
+      "status": "Active"
+    },
+    {
+      "id": 37,
+      "name": "Vornado Realty Trust",
+      "requestDate": "06/04/2020",
+      "updateDate": "02/10/2019",
+      "status": "Resolved"
+    },
+    {
+      "id": 38,
+      "name": "Marlin Business Services Corp.",
+      "requestDate": "03/11/2019",
+      "updateDate": "13/04/2020",
+      "status": "Active"
+    },
+    {
+      "id": 39,
+      "name": "Ship Finance International Limited",
+      "requestDate": "19/10/2019",
+      "updateDate": "18/11/2019",
+      "status": "Active"
+    },
+    {
+      "id": 40,
+      "name": "Four Corners Property Trust, Inc.",
+      "requestDate": "21/04/2019",
+      "updateDate": "10/06/2019",
+      "status": "Active"
+    },
+    {
+      "id": 41,
+      "name": "Acacia Communications, Inc.",
+      "requestDate": "08/04/2019",
+      "updateDate": "22/11/2019",
+      "status": "Active"
+    },
+    {
+      "id": 42,
+      "name": "Advent Claymore Convertible Securities and Income Fund II",
+      "requestDate": "28/02/2020",
+      "updateDate": "21/02/2020",
+      "status": "Resolved"
+    },
+    {
+      "id": 43,
+      "name": "Agnico Eagle Mines Limited",
+      "requestDate": "25/10/2019",
+      "updateDate": "16/11/2019",
+      "status": "Paused"
+    },
+    {
+      "id": 44,
+      "name": "Kingtone Wirelessinfo Solution Holding Ltd",
+      "requestDate": "03/11/2019",
+      "updateDate": "14/07/2019",
+      "status": "Active"
+    },
+    {
+      "id": 45,
+      "name": "Quantenna Communications, Inc.",
+      "requestDate": "03/09/2019",
+      "updateDate": "26/01/2020",
+      "status": "Active"
+    },
+    {
+      "id": 46,
+      "name": "Diamondback Energy, Inc.",
+      "requestDate": "20/07/2019",
+      "updateDate": "05/06/2019",
+      "status": "Active"
+    },
+    {
+      "id": 47,
+      "name": "Noble Corporation",
+      "requestDate": "07/07/2019",
+      "updateDate": "01/09/2019",
+      "status": "Active"
+    },
+    {
+      "id": 48,
+      "name": "TheStreet, Inc.",
+      "requestDate": "30/11/2019",
+      "updateDate": "21/06/2019",
+      "status": "Cancelled"
+    },
+    {
+      "id": 49,
+      "name": "Invesco Value Municipal Income Trust",
+      "requestDate": "28/03/2020",
+      "updateDate": "21/03/2020",
+      "status": "Active"
+    },
+    {
+      "id": 50,
+      "name": "Principal Real Estate Income Fund",
+      "requestDate": "28/12/2019",
+      "updateDate": "05/01/2020",
+      "status": "Active"
+    },
+    {
+      "name": "aaa",
+      "requestDate": "15/04/2020",
+      "updateDate": "08/04/2020",
+      "status": "Cancelled",
+      "id": 51
+    },
+    {
+      "name": "aaa",
+      "requestDate": "14/04/2020",
+      "updateDate": "14/04/2020",
+      "status": "Cancelled",
+      "id": 52
+    },
+    {
+      "name": "a",
+      "requestDate": "14/04/2020",
+      "updateDate": "13/04/2020",
+      "status": "Cancelled",
+      "id": 53
+    },
+    {
+      "name": "qqq",
+      "requestDate": "06/04/2020",
+      "updateDate": "06/04/2020",
+      "status": "Cancelled",
+      "id": 54
+    }
+  ]
+}
